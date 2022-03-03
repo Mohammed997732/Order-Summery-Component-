@@ -21,7 +21,7 @@ The challenge was to build a small component using Frontend technologies
 
 Solution URL: [Click Here]()
 
-Live Preview: [Click Here]()
+Live Preview: [Click Here](https://mohammed997732.github.io/Order-Summery-Component-/)
 
 ## My process
 
