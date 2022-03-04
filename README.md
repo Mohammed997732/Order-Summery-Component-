@@ -19,7 +19,7 @@ The challenge was to build a small component using Frontend technologies
 
 ### links
 
-Solution URL: [Click Here]()
+Solution URL: [Click Here](https://www.frontendmentor.io/solutions/order-summary-card-using-html-and-cssflexbox-BjBuxOljK)
 
 Live Preview: [Click Here](https://mohammed997732.github.io/Order-Summery-Component-/)
 
